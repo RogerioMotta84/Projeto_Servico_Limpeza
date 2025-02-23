@@ -28,6 +28,9 @@ O programa realiza os seguintes passos:
 **Tipo de limpeza:** O usuário escolhe o tipo de limpeza desejada, entre "Básica" e "Completa". O programa valida a escolha e calcula o multiplicador adequado.
 **Adicionais:** O programa pergunta ao usuário se ele deseja adicionar algum serviço extra. Ele continua perguntando até o usuário escolher a opção "0", que indica que não há mais adicionais. O valor total é então calculado, incluindo todos os serviços adicionais escolhidos.
 
+![Serviços de Limpeza](Imagem/Serviços%20de%20Limpeza.png)
+
+
 
 
 
