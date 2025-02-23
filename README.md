@@ -30,3 +30,6 @@ O programa realiza os seguintes passos:
 
 ![Texto alternativo](Imagem/nome_da_imagem.png)
 
+![Código do programa](Imagem/codigo.png)
+
+
