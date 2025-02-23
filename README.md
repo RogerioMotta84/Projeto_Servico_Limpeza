@@ -27,3 +27,6 @@ O programa realiza os seguintes passos:
 **Metragem da limpeza:** O programa solicita a metragem do local para determinar o valor inicial. A partir dessa metragem, ele define quantas pessoas são necessárias para realizar o serviço, conforme as faixas de metragem especificadas.
 **Tipo de limpeza:** O usuário escolhe o tipo de limpeza desejada, entre "Básica" e "Completa". O programa valida a escolha e calcula o multiplicador adequado.
 **Adicionais:** O programa pergunta ao usuário se ele deseja adicionar algum serviço extra. Ele continua perguntando até o usuário escolher a opção "0", que indica que não há mais adicionais. O valor total é então calculado, incluindo todos os serviços adicionais escolhidos.
+
+![Texto alternativo](Imagem/nome_da_imagem.png)
+
